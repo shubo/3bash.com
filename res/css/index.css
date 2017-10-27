@@ -7,8 +7,9 @@
 }
 .menu-cont{
   padding: 1em;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   text-align: center;
+  box-shadow: 0px 0px 5px;
 }
 .menu-item{
   width: 15em;
